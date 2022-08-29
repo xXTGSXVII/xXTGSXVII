@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @xXTGSXVII
 - 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python and JavaScript
 
 <!---
 xXTGSXVII/xXTGSXVII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
